@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 - 🌍 Based in Bottrop, Germany
-- 💻 Active GitHub User since December 2019
-- 🔗 [GitHub Profile](https://github.com/Juke1999)
+- 💻 GitHub user since December 2019
 - 🎮 Passionate about coding, gaming, and music production
 
 ## 🛠️ Skills & Interests
